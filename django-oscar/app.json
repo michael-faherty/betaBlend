@@ -1,5 +1,5 @@
 {
-  "name": "beta_blend",
+  "name": "django-oscar",
   "description": "Django Oscar sandbox site",
   "env": {
     "ALLOWED_HOSTS": {
